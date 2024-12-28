@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: rgb(230, 235, 239);
+}
+div{
+    color: aliceblue;
+    background-color: aquamarine;
+    height: 200px;
+    width: 400px;
+}
